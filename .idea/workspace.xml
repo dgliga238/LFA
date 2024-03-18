@@ -1,18 +1,35 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="c5c0b7cc-6a06-4460-b01b-334c04b6eabd" name="Changes" comment="" />
+    <list default="true" id="c5c0b7cc-6a06-4460-b01b-334c04b6eabd" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LFA3.java" beforeDir="false" afterPath="$PROJECT_DIR$/LFA3.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Grammar.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Grammar.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 8
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 8
+}</component>
   <component name="ProjectId" id="2cP1DHUZDoeb0GarPYTgax35TJD" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
@@ -23,9 +40,16 @@
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "WebServerToolWindowFactoryState": "false",
     "git-widget-placeholder": "main",
-    "onboarding.tips.debug.path": "C:/Users/dglig/IdeaProjects/LFA/src/Main.java",
+    "jdk.selected.JAVA_MODULE": "openjdk-20",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "onboarding.tips.debug.path": "C:/Users/dglig/IdeaProjects/LFA/LFA3/src/Main.java",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
@@ -37,7 +61,20 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1707998282376</updated>
-      <workItem from="1707998283391" duration="2000" />
+      <workItem from="1707998283391" duration="2609000" />
+      <workItem from="1708000947403" duration="1058000" />
+      <workItem from="1708277687218" duration="1873000" />
+      <workItem from="1708284533293" duration="237000" />
+      <workItem from="1708351888654" duration="635000" />
+      <workItem from="1708356484211" duration="4455000" />
+      <workItem from="1708424445354" duration="607000" />
+      <workItem from="1708526602831" duration="117000" />
+      <workItem from="1709567936242" duration="1725000" />
+      <workItem from="1709651428572" duration="394000" />
+      <workItem from="1709651839153" duration="1251000" />
+      <workItem from="1709729677436" duration="2000" />
+      <workItem from="1709733326498" duration="9000" />
+      <workItem from="1710777914059" duration="344000" />
     </task>
     <servers />
   </component>
@@ -49,8 +86,18 @@
       <breakpoints>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/Main.java</url>
-          <line>13</line>
+          <line>14</line>
           <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/LFA2/src/Main.java</url>
+          <line>137</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/LFA3/src/Lexer.java</url>
+          <line>53</line>
+          <option name="timeStamp" value="3" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>

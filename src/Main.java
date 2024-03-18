@@ -6,5 +6,9 @@ public class Main {
         for (String string : validStrings) {
             System.out.println(string);
         }
+        String classification = Grammar.classifyGrammar();
+
+        // Print the classification
+        System.out.println("Classification of the grammar: " + classification);
     }
 }
