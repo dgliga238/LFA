@@ -5,7 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c5c0b7cc-6a06-4460-b01b-334c04b6eabd" name="Changes" comment="lexer update">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LFA_3_Report.pdf" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -75,7 +75,7 @@
       <workItem from="1711028030090" duration="354000" />
       <workItem from="1711382996403" duration="89000" />
       <workItem from="1711386529470" duration="317000" />
-      <workItem from="1711459146875" duration="700000" />
+      <workItem from="1711459146875" duration="954000" />
     </task>
     <task id="LOCAL-00001" summary="lexer update">
       <option name="closed" value="true" />
