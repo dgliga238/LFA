@@ -5,7 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c5c0b7cc-6a06-4460-b01b-334c04b6eabd" name="Changes" comment="lexer update">
-      <change beforePath="$PROJECT_DIR$/LFA_3_Report.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -44,7 +45,7 @@
     &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
     &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
     &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;onboarding.tips.debug.path&quot;: &quot;C:/Users/dglig/IdeaProjects/LFA/LFA3/src/Main.java&quot;,
+    &quot;onboarding.tips.debug.path&quot;: &quot;C:/Users/dglig/IdeaProjects/LFA/LAB4/src/Main.java&quot;,
     &quot;run.code.analysis.last.selected.profile&quot;: &quot;pProject Default&quot;,
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
@@ -76,6 +77,9 @@
       <workItem from="1711382996403" duration="89000" />
       <workItem from="1711386529470" duration="317000" />
       <workItem from="1711459146875" duration="954000" />
+      <workItem from="1711460277927" duration="697000" />
+      <workItem from="1712513394334" duration="1617000" />
+      <workItem from="1712578087406" duration="2038000" />
     </task>
     <task id="LOCAL-00001" summary="lexer update">
       <option name="closed" value="true" />
