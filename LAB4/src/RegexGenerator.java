@@ -4,7 +4,6 @@ import java.util.Random;
 
 public class RegexGenerator {
     private static final Random randomNumberGenerator = new Random();
-
     public static List<String> generateFromRegex(String regex, int numStrings) {
         List<String> resultList = new ArrayList<>();
 
@@ -125,19 +124,19 @@ public class RegexGenerator {
         int numStringsToGenerate = 5; // Number of strings to generate for each regex
 
         // Generate and print strings for different regex patterns
-        System.out.println("Generating strings for regex 1:");
+        System.out.println(" expression 1:");
         List<String> regex1Strings = generateFromRegex("O(P|Q|R)+2(3|4)", numStringsToGenerate);
         for (String str : regex1Strings) {
             System.out.println(str);
         }
 
-        System.out.println("\nGenerating strings for regex 2:");
+        System.out.println("\nexpression 2:");
         List<String> regex2Strings = generateFromRegex("A*B(C|D|E)F(G|H|I)^2.", numStringsToGenerate);
         for (String str : regex2Strings) {
             System.out.println(str);
         }
 
-        System.out.println("\nGenerating strings for regex 3:");
+        System.out.println("\nexpression 3:");
         List<String> regex3Strings = generateFromRegex("J+K(L|M|N)*O?(P|Q)^3.", numStringsToGenerate);
         for (String str : regex3Strings) {
             System.out.println(str);
